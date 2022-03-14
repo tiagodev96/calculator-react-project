@@ -5,8 +5,7 @@
 }
 
 body {
-  /* background: linear-gradient(to right, #6782b4, #b1bfd8 74%); */
-  background-color: blue;
+  background: linear-gradient(to right, #6782b4, #b1bfd8 74%);
   margin: 0;
 }
 
